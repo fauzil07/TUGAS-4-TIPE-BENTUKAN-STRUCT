@@ -1,0 +1,12 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+int main (){
+	struct Data_mahasiswa{
+		long int nim;
+		char nama[100];
+		char fakultas[100];
+	};
+  Data_mahasiswa mahasiswa1, mahasiswa2;
+  }
+
